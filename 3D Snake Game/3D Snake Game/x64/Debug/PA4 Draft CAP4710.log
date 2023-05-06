@@ -1,0 +1,37 @@
+﻿  SnakeAndBunny.cpp
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(4,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(4,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(4,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(5,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(5,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(5,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(184,75): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(184,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(184,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(201,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(202,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(204,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(207,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(211,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(214,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(215,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(217,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(227,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(229,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(231,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(232,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(254,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(299,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(302,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(305,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(308,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(313,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(316,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(319,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(322,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(327,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(329,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(332,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\PA4 Draft CAP4710\SnakeAndBunny.cpp(334,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PA4 Draft CAP4710.vcxproj -> C:\Users\alexb\Downloads\PA5 Draft CAP4710\PA5 Draft CAP4710\x64\Debug\PA5 Draft CAP4710.exe
+          1 file(s) copied.
