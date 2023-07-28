@@ -8,6 +8,7 @@ The classic Snake Game this time in 3D with the help of OpenGL and freeglut.
 - Now there's a 20% chance for a "Golden" Bunny to spawn (Worth 10 points)
 
 ## Next Steps
+- Add a video DEMO of the new progress in "completed steps"
 - Add back functionalites (such as first person camera and customizable snake and bunny) to game after reorganizing the code.
 - Add main menu.
 - Add sounds.
