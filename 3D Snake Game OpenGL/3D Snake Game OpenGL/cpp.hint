@@ -1,0 +1,5 @@
+// Hint files help the Visual Studio IDE interpret Visual C++ identifiers
+// such as names of functions and macros.
+// For more information see https://go.microsoft.com/fwlink/?linkid=865984
+#define GLUT_BITMAP_TIMES_ROMAN_10 ((void *)0x0004)
+#define GLUT_BITMAP_TIMES_ROMAN_10 ((void *) &glutBitmapTimesRoman10)
