@@ -5,10 +5,11 @@ The classic Snake Game this time in 3D with the help of OpenGL and freeglut.
 - Reorganized the code to include classes.
 - Added a score system.
 - Added a Game Hud that tracks player's score, when game is paused, and when the game is over.
-- Now there's a 20% chance for a "Golden" Bunny to spawn (Worth 10 points)
+- Now there's a 20% chance for a "Golden" Bunny to spawn (Worth 10 points).
+- Added a reset function to reset the game after getting a Game Over.
 
 ## Next Steps
-- Add a updated video DEMO of the new progress in "completed steps"
-- Add back functionalites (such as first person camera and customizable snake and bunny) to game after reorganizing the code.
+- Add an updated video DEMO of the new progress in "completed steps"
+- Add back functionalites (customizable snake and bunny) to game after reorganizing the code.
 - Add main menu.
 - Add sounds.
